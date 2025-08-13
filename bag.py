@@ -36,7 +36,7 @@ def display_header():
 ║██████╦╝╚█████╔╝╚██████╔╝██║░╚███║░░░██║░░░░░░██║░░░║
 ║╚═════╝░░╚════╝░░╚═════╝░╚═╝░░╚══╝░░░╚═╝░░░░░░╚═╝░░░║
 ╚════════════════════════════════════════════════════╝
-    {COLOR['END']}{COLOR['BOLD']}v1.0 | Created by x dev{COLOR['END']}
+    {COLOR['END']}{COLOR['BOLD']}v1.0 | Created by PIKRI EL RINEM{COLOR['END']}
     """)
 
 def display_menu():
